@@ -6,36 +6,51 @@ This file provides guidance to Claude Code when working with this AWS-themed blo
 
 This is a Next.js 14 blog built during the AWS Claude Code workshop. The blog demonstrates how to use Claude Code to build modern web applications with AWS branding and best practices.
 
-## AWS Design Requirements
+## Design Requirements
 
 ### Color Palette
-- **AWS Orange**: `#FF9900` - Primary accent color (buttons, links, highlights)
-- **AWS Dark**: `#232F3E` - Primary text and dark backgrounds
+- **Primary Color**: AWS Orange (`#FF9900`) - Buttons, links, highlights, call-to-action elements
+- **Secondary Color**: AWS Dark (`#232F3E`) - Headers, primary text, dark backgrounds
 - **AWS Blue**: `#146EB4` - Secondary accent (links, information)
 - **AWS Light Gray**: `#F2F3F3` - Light backgrounds and borders
 - **AWS Dark Gray**: `#545B64` - Secondary text
+
+### Design Aesthetic
+- **Professional, technical aesthetic** inspired by AWS documentation
+- Clean, minimalist layouts with clear hierarchy
+- Focus on readability and content clarity
+- Use whitespace effectively to separate sections
 
 ### Typography
 - **Body Text**: System sans-serif fonts
 - **Code**: Fira Code or monospace fallback
 - **Line Height**: 1.6 for body text, 1.2 for headings
 
-### Responsive Breakpoints
-- **Mobile**: < 768px
-- **Tablet**: 768px - 1024px
-- **Desktop**: > 1024px
+### Responsive Design
+- **Mobile-first approach**: Design for mobile screens first, then scale up
+- **Mobile**: < 768px (single column, larger touch targets)
+- **Tablet**: 768px - 1024px (2-column layouts)
+- **Desktop**: > 1024px (3-column layouts, wider content)
+
+### Technical Constraints
+- **Server-side rendering only**: No client JavaScript (`"use client"` only when absolutely necessary)
+- Use React Server Components by default (Next.js 15 App Router pattern)
+- All interactive features should degrade gracefully without JavaScript
 
 ## Key Files
 
-<!-- Students will add important files here using @ imports as they build -->
+### Configuration
+- @package.json - Project dependencies (Next.js 14, React 18, Tailwind CSS 4, markdown processing libraries)
+- @next.config.js - CloudFront proxy configuration with `/proxy/3000/` rewrites for AWS Workshop environment
+- @app/layout.tsx - Root layout with metadata, inline CSS variables for AWS theme (bypasses MIME type issues with CloudFront), and footer
 
 ### Core Application
 - `app/page.tsx` - Home page with hero section and post list
-- `app/layout.tsx` - Root layout with metadata and footer
 - `app/globals.css` - Global styles and AWS theme variables
+- `app/lib/readingTime.ts` - Reading time calculation utilities
 
 ### Blog Posts
-- `content/posts/` - Blog post markdown files (to be created)
+- `content/posts/` - Blog post markdown files with frontmatter (title, date, author, excerpt, category, tags, published)
 
 ## Development Workflow
 
