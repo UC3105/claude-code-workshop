@@ -65,153 +65,281 @@ Die **FIFA Weltmeisterschaft 2026** markiert einen historischen Meilenstein im W
 
 ## Vollständiger Spielplan
 
-### Gruppenphase - Erste Runde (11. - 14. Juni 2026)
+> **Hinweis:** Alle Zeiten in Eastern Time (ET). Für Deutschland: +6 Stunden = MESZ
 
-#### Donnerstag, 11. Juni 2026
-| Zeit (ET) | Spiel | Stadion | Stadt |
-|-----------|-------|---------|-------|
-| 12:00 | **Mexiko vs. [Team A2]** | Estadio Azteca | Mexiko-Stadt 🇲🇽 |
-| 15:00 | **USA vs. [Team B2]** | SoFi Stadium | Los Angeles 🇺🇸 |
-| 18:00 | **Kanada vs. [Team C2]** | BMO Field | Toronto 🇨🇦 |
+---
 
-#### Freitag, 12. Juni 2026
-| Zeit (ET) | Spiel | Gruppe | Stadion | Stadt |
-|-----------|-------|--------|---------|-------|
-| 12:00 | Brasilien vs. Serbien | Gruppe D | Hard Rock Stadium | Miami 🇺🇸 |
-| 15:00 | Deutschland vs. Japan | Gruppe E | Arrowhead Stadium | Kansas City 🇺🇸 |
-| 18:00 | Argentinien vs. Nigeria | Gruppe F | AT&T Stadium | Arlington 🇺🇸 |
+### 🏆 Gruppenphase - Erste Runde (11. - 14. Juni 2026)
 
-#### Samstag, 13. Juni 2026
-| Zeit (ET) | Spiel | Gruppe | Stadion | Stadt |
-|-----------|-------|--------|---------|-------|
-| 12:00 | Frankreich vs. Australien | Gruppe G | Mercedes-Benz Stadium | Atlanta 🇺🇸 |
-| 15:00 | Spanien vs. Marokko | Gruppe H | NRG Stadium | Houston 🇺🇸 |
-| 18:00 | England vs. Iran | Gruppe I | Levi's Stadium | Santa Clara 🇺🇸 |
+#### 📅 Donnerstag, 11. Juni 2026
 
-#### Sonntag, 14. Juni 2026
-| Zeit (ET) | Spiel | Gruppe | Stadion | Stadt |
-|-----------|-------|--------|---------|-------|
-| 12:00 | Portugal vs. Schweden | Gruppe J | Lincoln Field | Philadelphia 🇺🇸 |
-| 15:00 | Belgien vs. Südkorea | Gruppe K | Gillette Stadium | Foxborough 🇺🇸 |
-| 18:00 | Niederlande vs. Ägypten | Gruppe L | Lumen Field | Seattle 🇺🇸 |
+**12:00 Uhr ET (18:00 MESZ)**  
+🇲🇽 **Mexiko vs. [Team A2]**  
+📍 Estadio Azteca, Mexiko-Stadt
 
-### Gruppenphase - Zweite Runde (15. - 19. Juni 2026)
+**15:00 Uhr ET (21:00 MESZ)**  
+🇺🇸 **USA vs. [Team B2]**  
+📍 SoFi Stadium, Los Angeles
 
-#### Montag, 15. Juni 2026
-| Zeit (ET) | Spiel | Gruppe | Stadion | Stadt |
-|-----------|-------|--------|---------|-------|
-| 12:00 | Italien vs. Schweiz | Gruppe M | BC Place | Vancouver 🇨🇦 |
-| 15:00 | Kroatien vs. Costa Rica | Gruppe N | Estadio BBVA | Monterrey 🇲🇽 |
-| 18:00 | Uruguay vs. Senegal | Gruppe O | Estadio Akron | Guadalajara 🇲🇽 |
+**18:00 Uhr ET (00:00 MESZ)**  
+🇨🇦 **Kanada vs. [Team C2]**  
+📍 BMO Field, Toronto
 
-#### Weitere Gruppenspiele (15. - 25. Juni)
-Alle 48 Mannschaften spielen je **3 Gruppenspiele**. Die Spiele sind gleichmäßig über die 16 Stadien verteilt, mit täglichen Anstoßzeiten um:
-- **12:00 Uhr ET** (Frühspiel)
-- **15:00 Uhr ET** (Nachmittagsspiel)
-- **18:00 Uhr ET** (Abendspiel)
-- **21:00 Uhr ET** (Spätspiel an Wochenenden)
+---
 
-### Runde der letzten 32 (27. - 30. Juni 2026)
+#### 📅 Freitag, 12. Juni 2026
+
+**12:00 Uhr ET (18:00 MESZ)** - Gruppe D  
+🇧🇷 Brasilien vs. 🇷🇸 Serbien  
+📍 Hard Rock Stadium, Miami
+
+**15:00 Uhr ET (21:00 MESZ)** - Gruppe E  
+🇩🇪 **Deutschland vs. 🇯🇵 Japan**  
+📍 Arrowhead Stadium, Kansas City
+
+**18:00 Uhr ET (00:00 MESZ)** - Gruppe F  
+🇦🇷 Argentinien vs. 🇳🇬 Nigeria  
+📍 AT&T Stadium, Arlington
+
+---
+
+#### 📅 Samstag, 13. Juni 2026
+
+**12:00 Uhr ET (18:00 MESZ)** - Gruppe G  
+🇫🇷 Frankreich vs. 🇦🇺 Australien  
+📍 Mercedes-Benz Stadium, Atlanta
+
+**15:00 Uhr ET (21:00 MESZ)** - Gruppe H  
+🇪🇸 Spanien vs. 🇲🇦 Marokko  
+📍 NRG Stadium, Houston
+
+**18:00 Uhr ET (00:00 MESZ)** - Gruppe I  
+🏴󠁧󠁢󠁥󠁮󠁧󠁿 England vs. 🇮🇷 Iran  
+📍 Levi's Stadium, Santa Clara
+
+---
+
+#### 📅 Sonntag, 14. Juni 2026
+
+**12:00 Uhr ET (18:00 MESZ)** - Gruppe J  
+🇵🇹 Portugal vs. 🇸🇪 Schweden  
+📍 Lincoln Field, Philadelphia
+
+**15:00 Uhr ET (21:00 MESZ)** - Gruppe K  
+🇧🇪 Belgien vs. 🇰🇷 Südkorea  
+📍 Gillette Stadium, Foxborough
+
+**18:00 Uhr ET (00:00 MESZ)** - Gruppe L  
+🇳🇱 Niederlande vs. 🇪🇬 Ägypten  
+📍 Lumen Field, Seattle
+
+---
+
+### 🏆 Gruppenphase - Zweite Runde (15. - 19. Juni 2026)
+
+#### 📅 Montag, 15. Juni 2026
+
+**12:00 Uhr ET (18:00 MESZ)** - Gruppe M  
+🇮🇹 Italien vs. 🇨🇭 Schweiz  
+📍 BC Place, Vancouver
+
+**15:00 Uhr ET (21:00 MESZ)** - Gruppe N  
+🇭🇷 Kroatien vs. 🇨🇷 Costa Rica  
+📍 Estadio BBVA, Monterrey
+
+**18:00 Uhr ET (00:00 MESZ)** - Gruppe O  
+🇺🇾 Uruguay vs. 🇸🇳 Senegal  
+📍 Estadio Akron, Guadalajara
+
+---
+
+#### 📋 Weitere Gruppenspiele (15. - 25. Juni)
+
+Alle 48 Mannschaften spielen je **3 Gruppenspiele**. Die Spiele sind gleichmäßig über die 16 Stadien verteilt.
+
+**Tägliche Anstoßzeiten:**
+- 🌅 **12:00 Uhr ET** (18:00 MESZ) - Frühspiel
+- ☀️ **15:00 Uhr ET** (21:00 MESZ) - Nachmittagsspiel
+- 🌆 **18:00 Uhr ET** (00:00 MESZ) - Abendspiel
+- 🌙 **21:00 Uhr ET** (03:00 MESZ) - Spätspiel an Wochenenden
+
+---
+
+### ⚔️ Runde der letzten 32 (27. - 30. Juni 2026)
 
 Die **Top 2 aus jeder Gruppe plus 8 beste Drittplatzierte** (insgesamt 32 Teams) treten in der ersten K.O.-Runde an.
 
-#### Samstag, 27. Juni 2026
-| Zeit (ET) | Spiel | Stadion | Stadt |
-|-----------|-------|---------|-------|
-| 15:00 | Sieger Gruppe A vs. 3. Platz Gruppe C/D/E | MetLife Stadium | New Jersey 🇺🇸 |
-| 18:00 | Sieger Gruppe B vs. 3. Platz Gruppe F/G/H | AT&T Stadium | Arlington 🇺🇸 |
+#### 📅 Samstag, 27. Juni 2026
 
-#### Sonntag, 28. Juni 2026
-| Zeit (ET) | Spiel | Stadion | Stadt |
-|-----------|-------|---------|-------|
-| 15:00 | Sieger Gruppe C vs. Zweiter Gruppe D | Arrowhead Stadium | Kansas City 🇺🇸 |
-| 18:00 | Sieger Gruppe D vs. Zweiter Gruppe C | Mercedes-Benz Stadium | Atlanta 🇺🇸 |
+**15:00 Uhr ET (21:00 MESZ)**  
+Sieger Gruppe A vs. 3. Platz Gruppe C/D/E  
+📍 MetLife Stadium, New Jersey
 
-#### Montag, 29. Juni 2026
-| Zeit (ET) | Spiel | Stadion | Stadt |
-|-----------|-------|---------|-------|
-| 15:00 | Sieger Gruppe E vs. Zweiter Gruppe F | NRG Stadium | Houston 🇺🇸 |
-| 18:00 | Sieger Gruppe F vs. Zweiter Gruppe E | SoFi Stadium | Los Angeles 🇺🇸 |
+**18:00 Uhr ET (00:00 MESZ)**  
+Sieger Gruppe B vs. 3. Platz Gruppe F/G/H  
+📍 AT&T Stadium, Arlington
 
-#### Dienstag, 30. Juni 2026
-| Zeit (ET) | Spiel | Stadion | Stadt |
-|-----------|-------|---------|-------|
-| 15:00 | Sieger Gruppe G vs. Zweiter Gruppe H | Hard Rock Stadium | Miami 🇺🇸 |
-| 18:00 | Sieger Gruppe H vs. Zweiter Gruppe G | Levi's Stadium | Santa Clara 🇺🇸 |
+---
+
+#### 📅 Sonntag, 28. Juni 2026
+
+**15:00 Uhr ET (21:00 MESZ)**  
+Sieger Gruppe C vs. Zweiter Gruppe D  
+📍 Arrowhead Stadium, Kansas City
+
+**18:00 Uhr ET (00:00 MESZ)**  
+Sieger Gruppe D vs. Zweiter Gruppe C  
+📍 Mercedes-Benz Stadium, Atlanta
+
+---
+
+#### 📅 Montag, 29. Juni 2026
+
+**15:00 Uhr ET (21:00 MESZ)**  
+Sieger Gruppe E vs. Zweiter Gruppe F  
+📍 NRG Stadium, Houston
+
+**18:00 Uhr ET (00:00 MESZ)**  
+Sieger Gruppe F vs. Zweiter Gruppe E  
+📍 SoFi Stadium, Los Angeles
+
+---
+
+#### 📅 Dienstag, 30. Juni 2026
+
+**15:00 Uhr ET (21:00 MESZ)**  
+Sieger Gruppe G vs. Zweiter Gruppe H  
+📍 Hard Rock Stadium, Miami
+
+**18:00 Uhr ET (00:00 MESZ)**  
+Sieger Gruppe H vs. Zweiter Gruppe G  
+📍 Levi's Stadium, Santa Clara
+
+---
 
 *Weitere Paarungen folgen dem offiziellen FIFA-Turnierbaum*
 
-### Achtelfinale (3. - 6. Juli 2026)
+### 🎯 Achtelfinale (3. - 6. Juli 2026)
 
 **16 Teams** kämpfen um den Einzug ins Viertelfinale.
 
-#### Donnerstag, 3. Juli 2026
-| Zeit (ET) | Spiel | Stadion | Stadt |
-|-----------|-------|---------|-------|
-| 15:00 | AF1: Sieger Spiel 1 vs. Sieger Spiel 2 | Estadio Azteca | Mexiko-Stadt 🇲🇽 |
-| 18:00 | AF2: Sieger Spiel 3 vs. Sieger Spiel 4 | Lincoln Field | Philadelphia 🇺🇸 |
+#### 📅 Donnerstag, 3. Juli 2026
 
-#### Freitag, 4. Juli 2026
-| Zeit (ET) | Spiel | Stadion | Stadt |
-|-----------|-------|---------|-------|
-| 15:00 | AF3: Sieger Spiel 5 vs. Sieger Spiel 6 | Gillette Stadium | Foxborough 🇺🇸 |
-| 18:00 | AF4: Sieger Spiel 7 vs. Sieger Spiel 8 | Lumen Field | Seattle 🇺🇸 |
+**15:00 Uhr ET (21:00 MESZ)** - AF1  
+Sieger Spiel 1 vs. Sieger Spiel 2  
+📍 Estadio Azteca, Mexiko-Stadt
 
-#### Samstag, 5. Juli 2026
-| Zeit (ET) | Spiel | Stadion | Stadt |
-|-----------|-------|---------|-------|
-| 15:00 | AF5: Sieger Spiel 9 vs. Sieger Spiel 10 | BC Place | Vancouver 🇨🇦 |
-| 18:00 | AF6: Sieger Spiel 11 vs. Sieger Spiel 12 | BMO Field | Toronto 🇨🇦 |
+**18:00 Uhr ET (00:00 MESZ)** - AF2  
+Sieger Spiel 3 vs. Sieger Spiel 4  
+📍 Lincoln Field, Philadelphia
 
-#### Sonntag, 6. Juli 2026
-| Zeit (ET) | Spiel | Stadion | Stadt |
-|-----------|-------|---------|-------|
-| 15:00 | AF7: Sieger Spiel 13 vs. Sieger Spiel 14 | Estadio BBVA | Monterrey 🇲🇽 |
-| 18:00 | AF8: Sieger Spiel 15 vs. Sieger Spiel 16 | Estadio Akron | Guadalajara 🇲🇽 |
+---
 
-### Viertelfinale (9. - 10. Juli 2026)
+#### 📅 Freitag, 4. Juli 2026
+
+**15:00 Uhr ET (21:00 MESZ)** - AF3  
+Sieger Spiel 5 vs. Sieger Spiel 6  
+📍 Gillette Stadium, Foxborough
+
+**18:00 Uhr ET (00:00 MESZ)** - AF4  
+Sieger Spiel 7 vs. Sieger Spiel 8  
+📍 Lumen Field, Seattle
+
+---
+
+#### 📅 Samstag, 5. Juli 2026
+
+**15:00 Uhr ET (21:00 MESZ)** - AF5  
+Sieger Spiel 9 vs. Sieger Spiel 10  
+📍 BC Place, Vancouver
+
+**18:00 Uhr ET (00:00 MESZ)** - AF6  
+Sieger Spiel 11 vs. Sieger Spiel 12  
+📍 BMO Field, Toronto
+
+---
+
+#### 📅 Sonntag, 6. Juli 2026
+
+**15:00 Uhr ET (21:00 MESZ)** - AF7  
+Sieger Spiel 13 vs. Sieger Spiel 14  
+📍 Estadio BBVA, Monterrey
+
+**18:00 Uhr ET (00:00 MESZ)** - AF8  
+Sieger Spiel 15 vs. Sieger Spiel 16  
+📍 Estadio Akron, Guadalajara
+
+---
+
+### 🏅 Viertelfinale (9. - 10. Juli 2026)
 
 **8 Teams** verbleiben im Kampf um die Krone.
 
-#### Dienstag, 9. Juli 2026
-| Zeit (ET) | Spiel | Stadion | Stadt |
-|-----------|-------|---------|-------|
-| 15:00 | VF1: Sieger AF1 vs. Sieger AF2 | MetLife Stadium | New Jersey 🇺🇸 |
-| 18:00 | VF2: Sieger AF3 vs. Sieger AF4 | AT&T Stadium | Arlington 🇺🇸 |
+#### 📅 Dienstag, 9. Juli 2026
 
-#### Mittwoch, 10. Juli 2026
-| Zeit (ET) | Spiel | Stadion | Stadt |
-|-----------|-------|---------|-------|
-| 15:00 | VF3: Sieger AF5 vs. Sieger AF6 | Arrowhead Stadium | Kansas City 🇺🇸 |
-| 18:00 | VF4: Sieger AF7 vs. Sieger AF8 | Mercedes-Benz Stadium | Atlanta 🇺🇸 |
+**15:00 Uhr ET (21:00 MESZ)** - VF1  
+Sieger AF1 vs. Sieger AF2  
+📍 MetLife Stadium, New Jersey
 
-### Halbfinale (14. - 15. Juli 2026)
+**18:00 Uhr ET (00:00 MESZ)** - VF2  
+Sieger AF3 vs. Sieger AF4  
+📍 AT&T Stadium, Arlington
 
-#### Montag, 14. Juli 2026
-| Zeit (ET) | Spiel | Stadion | Stadt |
-|-----------|-------|---------|-------|
-| 18:00 | **HF1**: Sieger VF1 vs. Sieger VF2 | AT&T Stadium | Arlington 🇺🇸 |
+---
 
-#### Dienstag, 15. Juli 2026
-| Zeit (ET) | Spiel | Stadion | Stadt |
-|-----------|-------|---------|-------|
-| 18:00 | **HF2**: Sieger VF3 vs. Sieger VF4 | Mercedes-Benz Stadium | Atlanta 🇺🇸 |
+#### 📅 Mittwoch, 10. Juli 2026
 
-### Spiel um Platz 3
+**15:00 Uhr ET (21:00 MESZ)** - VF3  
+Sieger AF5 vs. Sieger AF6  
+📍 Arrowhead Stadium, Kansas City
 
-#### Samstag, 18. Juli 2026
-| Zeit (ET) | Spiel | Stadion | Stadt |
-|-----------|-------|---------|-------|
-| 15:00 | **Spiel um Platz 3** | Hard Rock Stadium | Miami 🇺🇸 |
+**18:00 Uhr ET (00:00 MESZ)** - VF4  
+Sieger AF7 vs. Sieger AF8  
+📍 Mercedes-Benz Stadium, Atlanta
 
-### FINALE
+---
 
-#### Sonntag, 19. Juli 2026
-| Zeit (ET) | Spiel | Stadion | Stadt |
-|-----------|-------|---------|-------|
-| 15:00 | **🏆 FINALE** | MetLife Stadium | New Jersey 🇺🇸 |
+### 🌟 Halbfinale (14. - 15. Juli 2026)
 
-Das Finale findet im **MetLife Stadium** in New Jersey statt, mit einer Kapazität von über **82.000 Zuschauern**!
+#### 📅 Montag, 14. Juli 2026
+
+**18:00 Uhr ET (00:00 MESZ)** - **HALBFINALE 1**  
+Sieger VF1 vs. Sieger VF2  
+📍 AT&T Stadium, Arlington
+
+---
+
+#### 📅 Dienstag, 15. Juli 2026
+
+**18:00 Uhr ET (00:00 MESZ)** - **HALBFINALE 2**  
+Sieger VF3 vs. Sieger VF4  
+📍 Mercedes-Benz Stadium, Atlanta
+
+---
+
+### 🥉 Spiel um Platz 3
+
+#### 📅 Samstag, 18. Juli 2026
+
+**15:00 Uhr ET (21:00 MESZ)**  
+Verlierer HF1 vs. Verlierer HF2  
+📍 Hard Rock Stadium, Miami
+
+---
+
+### 🏆 DAS GROSSE FINALE
+
+#### 📅 Sonntag, 19. Juli 2026
+
+**15:00 Uhr ET (21:00 MESZ)**  
+**⭐ WELTMEISTERSCHAFTS-FINALE ⭐**  
+Sieger HF1 vs. Sieger HF2  
+📍 **MetLife Stadium, New Jersey**
+
+🏟️ Kapazität: **82.000+ Zuschauer**  
+📺 Geschätzte TV-Zuschauer: **Über 1 Milliarde weltweit**
+
+---
 
 ## Deutsche Nationalmannschaft - Der Weg zum Titel
 
