@@ -1,5 +1,5 @@
 ---
-title: "FIFA Weltmeisterschaft 2026: Der ultimative Spielplan und Leitfaden"
+title: "FIFA Weltmeisterschaft 2026"
 date: "2026-06-13"
 author: "Workshop Participant"
 excerpt: "Die FIFA Weltmeisterschaft 2026 in den USA, Kanada und Mexiko - Das erste Turnier mit 48 Mannschaften. Vollständiger Spielplan, Austragungsorte und alles, was Sie wissen müssen"
