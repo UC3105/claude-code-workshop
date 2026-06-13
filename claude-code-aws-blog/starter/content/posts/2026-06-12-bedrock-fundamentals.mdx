@@ -1,0 +1,62 @@
+---
+title: "Bedrock Fundamentals"
+date: "2026-06-12"
+author: "AWS Developer"
+excerpt: "Learn the fundamentals of AWS Bedrock and how to build AI-powered applications using foundation models."
+category: "Bedrock"
+tags: ["Bedrock", "AI", "Foundation Models", "AWS", "Cloud"]
+published: true
+---
+
+## Introduction
+
+AWS Bedrock is a fully managed service that provides access to foundation models from leading AI companies through a single API. This guide covers the fundamental concepts and patterns for building AI-powered applications with Bedrock, helping you understand how to leverage foundation models effectively in your AWS architecture.
+
+## Prerequisites
+
+Before getting started, ensure you have:
+
+- AWS Account with appropriate permissions for Bedrock
+- AWS CLI configured with credentials
+- Basic understanding of REST APIs and JSON
+- Familiarity with AWS IAM policies and roles
+
+## Step-by-Step Guide
+
+### Step 1: Understanding Foundation Models
+
+Bedrock provides access to multiple foundation models, each optimized for different use cases. Learn about model capabilities, pricing, and token limits to choose the right model for your application.
+
+### Step 2: Setting Up IAM Permissions
+
+Configure IAM roles and policies to grant your application access to Bedrock APIs. Follow the principle of least privilege by restricting access to specific models and actions.
+
+### Step 3: Making Your First API Call
+
+Use the AWS SDK to invoke a foundation model. Structure your prompts effectively, handle responses, and manage tokens efficiently for optimal performance.
+
+## Best Practices
+
+When working with Bedrock, consider these best practices:
+
+- **Prompt Engineering**: Craft clear, specific prompts with examples and constraints to get consistent, high-quality outputs
+- **Token Management**: Monitor token usage and implement streaming for long responses to improve user experience
+- **Error Handling**: Implement retry logic with exponential backoff for transient failures and throttling
+
+## Common Pitfalls
+
+Avoid these common mistakes:
+
+1. **Ignoring Token Limits**: Each model has maximum token limits for input and output. Exceeding these limits causes request failures
+2. **Poor Prompt Design**: Vague or ambiguous prompts lead to inconsistent results. Always test and refine your prompts
+3. **Missing Cost Controls**: Foundation model calls can be expensive. Implement cost monitoring and set budget alerts early
+
+## Conclusion
+
+AWS Bedrock simplifies foundation model integration by providing a managed, scalable platform. By understanding model capabilities, following best practices, and avoiding common pitfalls, you can build robust AI-powered applications efficiently.
+
+## Further Reading
+
+- [AWS Bedrock Documentation](https://docs.aws.amazon.com/bedrock/)
+- [Foundation Model Pricing and Comparison](https://aws.amazon.com/bedrock/pricing/)
+- [Bedrock API Reference](https://docs.aws.amazon.com/bedrock/latest/APIReference/)

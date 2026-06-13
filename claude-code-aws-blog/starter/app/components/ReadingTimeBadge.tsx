@@ -1,24 +1,31 @@
+import { calculateReadingTime, formatReadingTime } from '../lib/readingTime';
+
 interface ReadingTimeBadgeProps {
-  minutes: number;
+  content: string;
 }
 
-export default function ReadingTimeBadge({ minutes }: ReadingTimeBadgeProps) {
+export default function ReadingTimeBadge({ content }: ReadingTimeBadgeProps) {
+  const readingTime = calculateReadingTime(content);
+  const formattedTime = formatReadingTime(readingTime);
+
   return (
-    <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-sm font-medium bg-aws-orange text-white">
+    <div className="reading-time-badge inline-flex items-center gap-1.5 text-aws-dark-gray text-sm font-medium">
       <svg
-        className="w-4 h-4"
+        xmlns="http://www.w3.org/2000/svg"
+        viewBox="0 0 24 24"
         fill="none"
         stroke="currentColor"
-        viewBox="0 0 24 24"
+        strokeWidth="2"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        width="16"
+        height="16"
+        aria-hidden="true"
       >
-        <path
-          strokeLinecap="round"
-          strokeLinejoin="round"
-          strokeWidth={2}
-          d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"
-        />
+        <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path>
+        <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path>
       </svg>
-      {minutes} min read
-    </span>
+      <span>{formattedTime}</span>
+    </div>
   );
 }
