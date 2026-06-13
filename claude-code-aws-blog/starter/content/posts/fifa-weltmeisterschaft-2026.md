@@ -22,9 +22,9 @@ Die **FIFA Weltmeisterschaft 2026** markiert einen historischen Meilenstein im W
 
 ## Die 16 Stadien
 
-### USA (11 Stadien)
+### 🇺🇸 USA (11 Stadien)
 
-1. **MetLife Stadium** - East Rutherford, New Jersey (Finale)
+1. **MetLife Stadium** - East Rutherford, New Jersey 🏆 *(Finale)*
 2. **AT&T Stadium** - Arlington, Texas
 3. **Arrowhead Stadium** - Kansas City, Missouri
 4. **Mercedes-Benz Stadium** - Atlanta, Georgia
@@ -36,14 +36,14 @@ Die **FIFA Weltmeisterschaft 2026** markiert einen historischen Meilenstein im W
 10. **Hard Rock Stadium** - Miami Gardens, Florida
 11. **Lumen Field** - Seattle, Washington
 
-### Kanada (2 Stadien)
+### 🇨🇦 Kanada (2 Stadien)
 
 12. **BC Place** - Vancouver, British Columbia
 13. **BMO Field** - Toronto, Ontario
 
-### Mexiko (3 Stadien)
+### 🇲🇽 Mexiko (3 Stadien)
 
-14. **Estadio Azteca** - Mexiko-Stadt
+14. **Estadio Azteca** - Mexiko-Stadt *(Legendär - WM 1970 & 1986)*
 15. **Estadio BBVA** - Monterrey
 16. **Estadio Akron** - Guadalajara
 
@@ -341,28 +341,28 @@ Sieger HF1 vs. Sieger HF2
 
 ---
 
-## Deutsche Nationalmannschaft - Der Weg zum Titel
+## 🇩🇪 Deutsche Nationalmannschaft - Der Weg zum Titel
 
 ### Kader und Erwartungen
 
-Die deutsche Nationalmannschaft kommt mit großen Ambitionen zur WM 2026. Nach der Enttäuschung bei der WM 2022 in Katar hat die Mannschaft sich neu formiert.
+Die 🇩🇪 **deutsche Nationalmannschaft** kommt mit großen Ambitionen zur WM 2026. Nach der Enttäuschung bei der WM 2022 in Katar hat die Mannschaft sich neu formiert.
 
 **Stärken:**
-- Junge, hungrige Spieler mit Bundesliga- und internationaler Erfahrung
-- Starke Defensive und erfahrenes Mittelfeld
-- Bewährte Turniermentalität
+- ⚽ Junge, hungrige Spieler mit Bundesliga- und internationaler Erfahrung
+- 🛡️ Starke Defensive und erfahrenes Mittelfeld
+- 🏆 Bewährte Turniermentalität
 
 **Schlüsselspieler:**
-- **Jamal Musiala** (Bayern München) - Kreativspieler
-- **Florian Wirtz** (Bayer Leverkusen) - Offensivallrounder
-- **Kai Havertz** (Arsenal) - Stürmer
-- **Joshua Kimmich** (Bayern München) - Kapitän
+- ⭐ **Jamal Musiala** (Bayern München) - Kreativspieler
+- ⚡ **Florian Wirtz** (Bayer Leverkusen) - Offensivallrounder
+- 🎯 **Kai Havertz** (Arsenal) - Stürmer
+- 👨‍✈️ **Joshua Kimmich** (Bayern München) - Kapitän
 
 ### Gruppenphase-Gegner (Gruppe E)
 
-1. **Deutschland**
-2. **Japan** (Rematch von 2022!)
-3. **[Qualifikant]**
+1. 🇩🇪 **Deutschland**
+2. 🇯🇵 **Japan** *(Rematch von 2022!)*
+3. 🌍 **[Qualifikant]**
 
 ## Wichtige Informationen für Fans
 
@@ -428,10 +428,10 @@ Die deutsche Nationalmannschaft kommt mit großen Ambitionen zur WM 2026. Nach d
 
 ### Historische Fakten
 
-- **Mexiko** richtet die WM zum **dritten Mal** aus (1970, 1986, 2026)
-- **USA** zum zweiten Mal (1994, 2026)
-- **Kanada** zum ersten Mal
-- **Estadio Azteca** ist das erste Stadion, das drei WMs ausrichtet
+- 🇲🇽 **Mexiko** richtet die WM zum **dritten Mal** aus (1970, 1986, 2026)
+- 🇺🇸 **USA** zum zweiten Mal (1994, 2026)
+- 🇨🇦 **Kanada** zum ersten Mal
+- 🏟️ **Estadio Azteca** ist das erste Stadion, das drei WMs ausrichtet
 
 ## So erleben Sie die WM 2026 optimal
 
@@ -454,28 +454,28 @@ Die deutsche Nationalmannschaft kommt mit großen Ambitionen zur WM 2026. Nach d
 - **Kicker** - Deutsche Berichterstattung
 - **Google Maps** - Navigation in Gastgeberstädten
 
-## Fazit
+## 🎉 Fazit
 
-Die FIFA Weltmeisterschaft 2026 verspricht das größte und spektakulärste Fußballturnier der Geschichte zu werden. Mit **48 Mannschaften**, **104 Spielen** und **16 beeindruckenden Stadien** über drei Länder verteilt, ist dies ein einmaliges Ereignis.
+Die FIFA Weltmeisterschaft 2026 verspricht das größte und spektakulärste Fußballturnier der Geschichte zu werden. Mit **48 Mannschaften**, **104 Spielen** und **16 beeindruckenden Stadien** über drei Länder 🇺🇸 🇨🇦 🇲🇽 verteilt, ist dies ein einmaliges Ereignis.
 
-Ob Sie die Spiele von Deutschland aus verfolgen oder das Abenteuer einer Reise nach Nordamerika wagen - diese WM wird unvergesslich.
+Ob Sie die Spiele von 🇩🇪 Deutschland aus verfolgen oder das Abenteuer einer Reise nach Nordamerika wagen - diese WM wird unvergesslich.
 
-**Die Welt zu Gast bei Freunden in Nordamerika. Lassen Sie sich dieses historische Turnier nicht entgehen!**
+**⚽ Die Welt zu Gast bei Freunden in Nordamerika. Lassen Sie sich dieses historische Turnier nicht entgehen! 🏆**
 
 ---
 
-## Wichtige Termine im Überblick
+## 📅 Wichtige Termine im Überblick
 
-| Datum | Ereignis |
-|-------|----------|
-| **11. Juni 2026** | Eröffnungsspiel (Mexiko-Stadt) |
-| **11. - 25. Juni** | Gruppenphase |
-| **27. - 30. Juni** | Runde der letzten 32 |
-| **3. - 6. Juli** | Achtelfinale |
-| **9. - 10. Juli** | Viertelfinale |
-| **14. - 15. Juli** | Halbfinale |
-| **18. Juli** | Spiel um Platz 3 |
-| **19. Juli 2026** | 🏆 **FINALE** (MetLife Stadium, New Jersey) |
+| Datum | Ereignis | Phase |
+|-------|----------|-------|
+| **11. Juni 2026** | 🎬 Eröffnungsspiel | 🇲🇽 Mexiko-Stadt |
+| **11. - 25. Juni** | 🏆 Gruppenphase | 48 Teams, 16 Gruppen |
+| **27. - 30. Juni** | ⚔️ Runde der letzten 32 | 32 Teams |
+| **3. - 6. Juli** | 🎯 Achtelfinale | 16 Teams |
+| **9. - 10. Juli** | 🏅 Viertelfinale | 8 Teams |
+| **14. - 15. Juli** | 🌟 Halbfinale | 4 Teams |
+| **18. Juli** | 🥉 Spiel um Platz 3 | 🏟️ Miami |
+| **19. Juli 2026** | 🏆 **FINALE** | 🇺🇸 **MetLife Stadium, New Jersey** |
 
 *Alle Zeiten sind in Eastern Time (ET) angegeben. Für MESZ: +6 Stunden addieren.*
 
