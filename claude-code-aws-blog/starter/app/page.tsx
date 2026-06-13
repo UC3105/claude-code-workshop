@@ -1,4 +1,9 @@
+import PostList from './components/PostList';
+import { getAllPosts } from './lib/simplePosts';
+
 export default function Home() {
+  const posts = getAllPosts();
+
   return (
     <div>
       {/* Hero Section */}
@@ -23,12 +28,9 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Post List - Students will build this in Exercise 006 */}
+      {/* Blog Post Listing */}
       <section id="posts" className="container mx-auto px-4 mb-16">
-        <h2 className="text-2xl font-bold mb-6">Recent Posts</h2>
-        <div className="text-aws-dark-gray">
-          <p>Post list will be added in Exercise 006</p>
-        </div>
+        <PostList posts={posts} />
       </section>
     </div>
   );
